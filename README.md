@@ -1,12 +1,12 @@
-<h2 align="center">👋 A passionate Fullstack & Blockchain developer</h2>
+<h2 align="center">👋 A passionate Fullstack & NFT developer</h2>
 <p align="center">
-  <img align="center" src="https://s38063.pcdn.co/wp-content/uploads/2021/10/what-is-a-microservice-and-considerations-for-using-microservices-architecture.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="me.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=babystar0908" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=babystar0908" height="150" alt="languages graph"  />
+  <img src="https://camo.githubusercontent.com/7b8b498ce6b971ddf6add6825168c60a35b56006d1f247af4da185ded50d4932/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b616e62656930363035266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d74727565266c696e655f6865696768743d3237" height="150" alt="languages graph"  />
 </div>
 
 ###
