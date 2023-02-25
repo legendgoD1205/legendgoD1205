@@ -107,7 +107,4 @@
   </tr>
 </table>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
-
-| <img align="center" src="https://github-profile-trophy.vercel.app/?username=babystar0908&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
